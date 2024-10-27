@@ -1,0 +1,16 @@
+{
+  "name": "to-dos-app",
+  "version": "1.0.0",
+  "description": "This is my To Dos App with Vanilla Frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Manan Rajkumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
